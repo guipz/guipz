@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hello, I'm Guilherme Pais de Souza 👋
 
-<!--
-**guipz/guipz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about technology and have extensive experience in mobile and web development. My skill set includes creating native Android apps as well as scalable web solutions.
 
-Here are some ideas to get you started:
+### 💡 Skills
+- Python
+- Django
+- HTML, CSS and JS
+- Java
+- Android
+- Kotlin
+- Google Cloud
+- Artificial Intelligence
+- GraphQL
+- Redux.js, React.js, and more
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Languages
+- English: Advanced
+- Portuguese: Native
+
+---
+
+I'm always looking for new challenges that allow me to apply my passion for technology and create impactful solutions. If you have an interesting project or are looking for a dedicated and passionate collaborator, I'd love to chat and explore how I can contribute!
